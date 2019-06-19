@@ -1,1 +1,4 @@
 Django==1.10.5
+django-jenkins
+pep8
+pyflakes
